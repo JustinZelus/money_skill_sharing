@@ -14,7 +14,7 @@
 11. 第三方登入
 12. ChangeLog如何寫
 13. 常用加解密工具
-
+14. 當javascript module pattern 使用在google api上會是如何？
 
 
 檔案稍多，整理code中，近期將陸續放上..
