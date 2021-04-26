@@ -10,7 +10,7 @@
 7. 將N個第三方模組打包成一個模組
 8. AWS S3 上傳與下載
 9. ftp 上傳與下載
-10. [面試題目]: https://github.com/JustinZelus/CCWork_Demo
+10. d[面試題目]: https://github.com/JustinZelus/CCWork_Demo
 11. 第三方登入
 12. ChangeLog如何寫
 13. 常用加解密工具
