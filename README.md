@@ -10,7 +10,7 @@
 7. 將N個第三方模組打包成一個模組
 8. AWS S3 上傳與下載
 9. ftp 上傳與下載
-10. d[面試題目]: https://github.com/JustinZelus/CCWork_Demo
+10. [面試題目](https://github.com/JustinZelus/CCWork_Demo)
 11. 第三方登入
 12. ChangeLog如何寫
 13. 常用加解密工具
@@ -28,5 +28,6 @@
 25. 當獨角獸的利弊
 26. 我該學什麼？
 27. 手機開發重點，雙平台適用
+
 
 檔案稍多，資料整理中，近期將陸續放上..
