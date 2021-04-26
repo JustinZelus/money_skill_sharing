@@ -1,5 +1,5 @@
-# Soft_Engineer_sharing
-一位軟體工程師分享，內容如下 : 
+# sharing
+分享經驗，內容如下 : 
 
 1. web系統服務化
 2. web推播模組
