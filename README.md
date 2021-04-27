@@ -1,7 +1,7 @@
 # sharing
 分享經驗，內容如下 : 
 
-1. web系統服務化
+1. [web api 服務設計模式 in NetCore](https://github.com/JustinZelus/ServicePattern_In_NetCore)
 2. web推播模組
 3. Line API模組
 4. 自訂義Alert for ios
